@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Webapp-project!!</h2>
+<h2>Welcome to DevOps course Maven !!</h2>
 </body>
 </html>
